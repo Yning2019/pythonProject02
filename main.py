@@ -1,4 +1,4 @@
 # coding=utf-8
-a="hello"
+a="hello hi"
 print a
 print a
